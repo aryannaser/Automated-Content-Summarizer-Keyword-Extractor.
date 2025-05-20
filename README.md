@@ -4,7 +4,6 @@
 
 This application uses advanced language models to automatically summarize text content and extract relevant keywords. It can process both direct text input and content from web URLs, making it a versatile tool for content analysis, research, and information digestion.
 
-![AI Content Summarizer Screenshot](https://i.imgur.com/xxxxxxx.png) <!-- Replace with an actual screenshot when available -->
 
 ## Features
 
