@@ -1,0 +1,16 @@
+# requirements.txt
+streamlit
+python-dotenv
+langchain >= 0.1.0
+# Choose ONE of the following for your initial LLM provider:
+# For Google Gemini:
+langchain-google-genai
+google-generativeai
+# OR For OpenAI:
+# langchain-openai
+
+# For web scraping (if processing URLs)
+requests
+beautifulsoup4
+# For better article extraction from URLs
+newspaper3k 
